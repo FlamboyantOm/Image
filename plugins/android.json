@@ -1,0 +1,78 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "ca.purplemad.wallpaper": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "org.apache.cordova.core.console": {
+            "PACKAGE_NAME": "com.example.omkar"
+        },
+        "cordova-plugin-imagepicker": {
+            "PACKAGE_NAME": "com.example.omkar"
+        }
+    },
+    "dependent_plugins": {}
+}

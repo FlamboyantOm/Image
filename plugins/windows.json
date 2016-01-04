@@ -1,0 +1,78 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "org.apache.cordova.core.console": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "ca.purplemad.wallpaper": {
+            "PACKAGE_NAME": "omkar"
+        },
+        "cordova-plugin-imagepicker": {
+            "PACKAGE_NAME": "omkar"
+        }
+    },
+    "dependent_plugins": {}
+}
